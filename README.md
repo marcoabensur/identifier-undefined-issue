@@ -1,1 +1,1 @@
-Self contained example to issue [#7326](https://github.com/microsoft/vscode-cpptools/issues/7326) of cpptools vs code extention
+Self contained example to issue [#7326](https://github.com/microsoft/vscode-cpptools/issues/7326) of cpptools vs code extension
