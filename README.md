@@ -1,0 +1,1 @@
+Self contained example to issue #7326
